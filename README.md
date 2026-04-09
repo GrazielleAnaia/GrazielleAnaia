@@ -1,4 +1,10 @@
-<h2 align="center">Hi👋! My name is Grazielle Anaia and I am Java Backend Developer!</h2>
+<h2 align="center">Hi👋! Backend Developer specializing in Java & Spring Boot, with a 
+proven portfolio in designing, developing, and deploying scalable 
+backend systems. Experienced in building robust RESTful APIs, 
+architecting microservices-based applications, and delivering high
+performance, scalable solutions. Strong advocate of SOLID 
+principles, producing clean, modular, and maintainable code that 
+enhances system quality, long-term sustainability, and resilience. </h2>
 
 ###
 
