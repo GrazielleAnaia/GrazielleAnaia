@@ -1,4 +1,4 @@
-<h2 align="center"> I am Grazielle Anaia, a Backend Developer in Java, Spring Boot & Kafka </h2>
+<h2 align="center"> I am Grazielle Anaia, a Backend Software Engineer in Java, Spring Boot & Kafka </h2>
 
 ###
 
