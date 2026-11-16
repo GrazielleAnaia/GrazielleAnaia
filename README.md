@@ -1,4 +1,4 @@
-<h2 align="center"> I am Grazielle Anaia, a Backend Software Engineer! </h2>
+<h2 align="center"> Welcome to Production-Ready Code | Backend (@ProdReadyCodeBackend), hosted by Grazielle Anaia—the home of high-performance backend engineering. </h2>
 
 ###
 
